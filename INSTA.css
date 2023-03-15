@@ -1,0 +1,449 @@
+h1 {
+  position: absolute;
+  left: 160px;
+  top: 0px;
+  font-size: 18px;
+}
+
+.vector {
+  position: absolute;
+  top: 15px;
+  left: 30px;
+}
+
+.taeyeon2 {
+  font-size: 20px;
+  position: absolute;
+  top: 80px;
+  left: 130px;
+}
+
+.Taeyeon {
+  position: absolute;
+  width: 89px;
+  height: 89px;
+  left: 16px;
+  top: 83px;
+  border-radius: 80%;
+}
+
+.insta_story {
+  position: absolute;
+  height: 93px;
+  width: 93px;
+  left: 14px;
+  top: 81px;
+  border-radius: 80%;
+  border-color: blueviolet;
+  background: linear-gradient(45deg, #fff722, #ff26f9);
+}
+
+.instaid {
+  font-size: 20px;
+  position: absolute;
+  left: 130px;
+  top: 80px;
+}
+
+.quality {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  left: 235px;
+  top: 85px;
+}
+
+.more {
+  position: absolute;
+  width: 23px;
+  height: 23px;
+  left: 275px;
+  top: 85px;
+}
+
+.Story1pic {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  left: 25px;
+  top: 300px;
+  border-radius: 80%;
+}
+
+.Story2pic {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  left: 100px;
+  top: 300px;
+  border-radius: 80%;
+}
+
+.Story3pic {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  left: 175px;
+  top: 300px;
+  border-radius: 80%;
+}
+
+.Story4pic {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  left: 250px;
+  top: 300px;
+  border-radius: 80%;
+}
+
+.Story5pic {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  left: 325px;
+  top: 300px;
+  border-radius: 80%;
+}
+
+.storyborder1 {
+  position: absolute;
+  height: 62px;
+  width: 62px;
+  left: 22px;
+  top: 297px;
+  border-radius: 80%;
+  border: 2px solid rgb(220, 202, 202);
+}
+
+.storyborder2 {
+  position: absolute;
+  height: 62px;
+  width: 62px;
+  left: 97px;
+  top: 297px;
+  border-radius: 80%;
+  border: 2px solid rgb(220, 202, 202);
+}
+
+.storyborder3 {
+  position: absolute;
+  height: 62px;
+  width: 62px;
+  left: 172px;
+  top: 297px;
+  border-radius: 80%;
+  border: 2px solid rgb(220, 202, 202);
+}
+
+.storyborder4 {
+  position: absolute;
+  height: 62px;
+  width: 62px;
+  left: 247px;
+  top: 297px;
+  border-radius: 80%;
+  border: 2px solid rgb(220, 202, 202);
+}
+
+.storyborder5 {
+  position: absolute;
+  height: 62px;
+  width: 62px;
+  left: 322px;
+  top: 297px;
+  border-radius: 80%;
+  border: 2px solid rgb(220, 202, 202);
+}
+
+.main {
+  position: absolute;
+  width: 80px;
+  height: 16px;
+  left: 16px;
+  top: 178px;
+}
+
+.profile {
+  position: absolute;
+  width: 400px;
+  height: 16px;
+  left: 16px;
+  top: 200px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.story1 {
+  position: absolute;
+  width: 44px;
+  height: 14px;
+  left: 43px;
+  top: 372px;
+}
+
+.story2 {
+  position: absolute;
+  width: 36px;
+  height: 14px;
+  left: 118px;
+  top: 372px;
+}
+
+.story3 {
+  position: absolute;
+  width: 30px;
+  height: 14px;
+  left: 193px;
+  top: 372px;
+}
+
+.story4 {
+  position: absolute;
+  width: 34px;
+  height: 14px;
+  left: 268px;
+  top: 372px;
+}
+
+.story5 {
+  position: absolute;
+  width: 34px;
+  height: 14px;
+  left: 343px;
+  top: 372px;
+}
+
+.box1 {
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  top: 135px;
+  left: 125px;
+  margin: 0 auto;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(232, 232, 232, 0.918);
+  border-radius: 10px;
+}
+
+.box2 {
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  top: 135px;
+  left: 235px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  background-color: rgba(232, 232, 232, 0.918);
+  border-radius: 10px;
+}
+
+.box3 {
+  position: absolute;
+  width: 40px;
+  height: 50px;
+  top: 135px;
+  left: 345px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  background-color: rgba(232, 232, 232, 0.918);
+  border-radius: 10px;
+}
+
+.add_friend {
+  width: 25px;
+  height: 25px;
+}
+
+.flex-container {
+  display: flex;
+  position: absolute;
+  width: 340px;
+  left: 40px;
+  top: 390px;
+  text-align: center;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.Box {
+  position: absolute;
+  width: 21px;
+  height: 22px;
+  left: 50px;
+  top: 500px;
+}
+
+.List {
+  border-radius: 0px;
+  position: absolute;
+  width: 20px;
+  height: 25px;
+  left: 150px;
+  top: 500px;
+}
+
+.Video {
+  position: absolute;
+  width: 23px;
+  height: 23px;
+  left: 250px;
+  top: 502px;
+}
+
+.myprofile {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  left: 350px;
+  top: 499px;
+}
+
+.Post1 {
+  position: absolute;
+  width: 135px;
+  height: 135px;
+  left: 0px;
+  top: 548px;
+}
+
+.Post2 {
+  position: absolute;
+  width: 135px;
+  height: 135px;
+  left: 138px;
+  top: 548px;
+}
+
+.Post3 {
+  position: absolute;
+  width: 135px;
+  height: 135px;
+  left: 276px;
+  top: 548px;
+}
+
+.Post4 {
+  position: absolute;
+  width: 135px;
+  height: 135px;
+  left: 0px;
+  top: 688px;
+}
+
+.Post5 {
+  position: absolute;
+  width: 135px;
+  height: 135px;
+  left: 138px;
+  top: 688px;
+}
+
+.Post6 {
+  position: absolute;
+  width: 135px;
+  height: 135px;
+  left: 276px;
+  top: 688px;
+}
+
+.Home {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 840px;
+  left: 25px;
+}
+
+.Search {
+  position: absolute;
+  width: 33px;
+  height: 33px;
+  top: 838px;
+  left: 110px;
+}
+
+.VideoBlack {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 837px;
+  left: 195px;
+}
+
+.DM {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 838px;
+  left: 280px;
+}
+
+.js {
+  position: absolute;
+  width: 42px;
+  height: 42px;
+  top: 830px;
+  left: 355px;
+}
+
+.flex-container > div {
+  margin: 10px;
+  padding: 20px;
+  font-size: 15.5px;
+  flex-direction: row;
+  flex-wrap: no-wrap;
+}
+ellipse {
+  height: 58px;
+  width: 58px;
+  left: 16px;
+  top: 280px;
+  border-radius: 0px;
+
+  box-sizing: border-box;
+  position: absolute;
+  width: 58px;
+  height: 58px;
+  left: 16px;
+  top: 280px;
+
+  border: 1px solid #7e7e7e;
+}
+
+.line1 {
+  position: absolute;
+  top: 50px;
+  width: 400px;
+}
+
+.line2 {
+  position: absolute;
+  top: 395px;
+  width: 400px;
+}
+
+.line3 {
+  position: absolute;
+  top: 475px;
+  width: 400px;
+}
+
+.line4 {
+  position: absolute;
+  top: 475px;
+  width: 400px;
+}
